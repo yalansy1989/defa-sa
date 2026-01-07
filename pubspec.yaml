@@ -1,0 +1,114 @@
+name: defa_sa
+description: "Defa Store Client Application"
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  # Dart 3.x (متوافق مع Flutter الحديثة)
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ============================
+  # 🌍 Localization & Storage
+  # ============================
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  shared_preferences: ^2.3.5
+
+  cupertino_icons: ^1.0.8
+
+  # ============================
+  # 🔐 Firebase Core & Auth
+  # ============================
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  google_sign_in: ^6.3.0
+  firebase_app_check: ^0.3.2+10
+
+  # ============================
+  # ☁️ Firebase Services
+  # ============================
+  cloud_firestore: ^5.6.12
+  firebase_storage: ^12.4.10
+  firebase_messaging: ^15.2.10
+
+  # Notifications
+  flutter_local_notifications: ^18.0.1
+
+  # ============================
+  # 📍 Location
+  # ============================
+  geolocator: ^13.0.4
+  geocoding: ^3.0.0
+
+  # ============================
+  # 🖼️ Media
+  # ============================
+  image_picker: ^1.1.2
+  cached_network_image: ^3.4.1
+  file_picker: ^8.3.7
+  open_filex: ^4.5.0
+
+  # ============================
+  # 🌐 Network & Links
+  # ============================
+  http: ^1.3.0
+  url_launcher: ^6.3.1
+
+  # ============================
+  # 🧰 Utils
+  # ============================
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  mime: ^2.0.0
+
+  # ============================
+  # 🎨 UI / Fonts / Animations
+  # ============================
+  google_fonts: ^6.3.3
+  font_awesome_flutter: ^10.8.0
+  animate_do: ^3.3.9
+  intl_phone_number_input: ^0.7.4+1
+  pinput: ^6.0.1
+  carousel_slider: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+  # 🎯 App Icons
+  flutter_launcher_icons: ^0.14.3
+
+# ============================
+# 🎯 App Icon Config
+# ============================
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#0A0E14"
+  adaptive_icon_foreground: "assets/images/app_icon.png"
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-Medium.ttf
+        - asset: assets/fonts/Cairo-Bold.ttf
+          weight: 700

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>172890376762-pjd05lvcj01bk6t2m01cvibutljguioj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.172890376762-pjd05lvcj01bk6t2m01cvibutljguioj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>172890376762-mjdi10hmdqseqomu8en48v9ufj8sfa8h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByO2dZWwbn_X9N3qEVLZtfNPYMOqQjK8M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>172890376762</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.defasa.client</string>
+	<key>PROJECT_ID</key>
+	<string>defa-sa-official</string>
+	<key>STORAGE_BUCKET</key>
+	<string>defa-sa-official.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:172890376762:ios:9b694cbdf548a016478303</string>
+</dict>
+</plist>

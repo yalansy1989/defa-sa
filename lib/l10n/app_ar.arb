@@ -1,0 +1,266 @@
+{
+  "@@locale": "ar",
+  "accountEmailPlaceholder": "لا يوجد بريد إلكتروني",
+  "accountNamePlaceholder": "مستخدم",
+  "accountServiceSettings": "⚙️ الإعدادات",
+  "accountServiceSupportHelp": "💬 الدعم والمساعدة",
+  "accountServicesTitle": "خدمات حسابي 🚀",
+  "accountStandardLabel": "حساب عادي",
+  "accountTitle": "حسابي",
+  "activeCurrencyLabel": "العملة النشطة",
+  "addPaymentMethod": "إضافة وسيلة دفع جديدة",
+  "additionalInfoLabel": "معلومات إضافية",
+  "address_line1": "العنوان (سطر 1)",
+  "address_line2_optional": "العنوان (سطر 2) اختياري",
+  "appPrefsSection": "تفضيلات التطبيق",
+  "appTitle": "متجر دفــا",
+  "back": "رجوع",
+  "bank_ref_label": "رقم الحوالة / المرجع",
+  "bank_ref_required_msg": "أدخل رقم الحوالة/المرجع للتحويل البنكي",
+  "bank_transfer_subtitle": "ادخل رقم الحوالة/المرجع بعد التحويل.",
+  "bank_transfer_title": "تحويل بنكي",
+  "cancel": "إلغاء",
+  "cancelOrderNowButton": "🚫 إلغاء الطلب الآن",
+  "cancel_button": "إلغاء",
+  "cart_empty": "السلة فارغة",
+  "changesSaved": "✅ تم حفظ التغييرات بنجاح",
+  "chatTypeOrder": "🧾 طلب",
+  "chatTypeProduct": "🛍️ منتج",
+  "checkout_title": "تأكيد الطلب",
+  "chooseLanguage": "اختر اللغة",
+  "choose_payment_method": "اختر طريقة الدفع",
+  "choose_save_location": "اختر مكان الحفظ",
+  "city": "المدينة",
+  "cod_subtitle": "يتم الدفع عند استلام الخدمة/المنتج.",
+  "cod_title": "الدفع عند الاستلام",
+  "complete_order_button": "إتمام الطلب",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "confirm_order_button": "متابعة وتأكيد الطلب",
+  "createAccount": "إنشاء حساب جديد",
+  "create_button": "إنشاء",
+  "currencySettingsTitle": "إعدادات العملة",
+  "currency_EUR": "يورو",
+  "currency_SAR": "ريال سعودي",
+  "currency_USD": "دولار",
+  "customerAttachmentsTitle": "مرفقاتك:",
+  "customerEmailLabelFancy": "✉️ الإيميل",
+  "customerNameLabelFancy": "🧑 الاسم",
+  "customerPhoneLabelFancy": "📱 الجوال",
+  "customer_data": "بيانات العميل",
+  "customer_label": "العميل",
+  "dateNotSpecified": "---",
+  "defaultUserName": "عميل دفــا",
+  "default_customer_name": "عميل",
+  "delete_action": "حذف",
+  "delete_button": "حذف",
+  "delete_notification": "حذف الإشعار",
+  "downloadLabel": "تحميل",
+  "editProfileTitle": "تعديل الملف الشخصي ✨",
+  "email": "البريد الإلكتروني",
+  "emailHint": "سيتم إرسال رابط تأكيد عند التغيير",
+  "emailLabel": "البريد الإلكتروني",
+  "emailUpdateError": "لا يمكن تحديث الإيميل. قد تحتاج لتسجيل الدخول مجدداً.",
+  "emailVerificationSent": "📨 تم إرسال رابط تأكيد إلى بريدك الإلكتروني.",
+  "email_label": "الإيميل",
+  "errorOccurred": "حدث خطأ",
+  "error_generic": "حدث خطأ: {error}",
+  "exchangeRateLabel": "سعر الصرف",
+  "file_not_found_local": "الملف غير موجود على الجهاز",
+  "file_saved_uploaded_msg": "تم حفظ الملف ورفعه تلقائيًا",
+  "filterAll": "الكل",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "fullName": "الاسم الكامل",
+  "fullNameLabel": "الاسم الكامل",
+  "genericProduct": "منتج",
+  "homeHeaderTitle": "أهلاً بك في دفــا ✨",
+  "homeTitle": "دفــا",
+  "invalidEmail": "صيغة البريد غير صحيحة",
+  "kindProduct": "منتج",
+  "languageLabel": "لغة التطبيق",
+  "loadingOrderData": "جاري تحميل بيانات الطلب...",
+  "login": "تسجيل الدخول",
+  "loginWelcome": "مرحبًا بك في دفــا",
+  "loginWithGoogle": "تسجيل الدخول باستخدام Google",
+  "login_required_content": "لا يمكن متابعة الدفع إلا بعد تسجيل الدخول.",
+  "login_required_title": "تسجيل الدخول مطلوب",
+  "logout": "تسجيل الخروج",
+  "mark_all_read": "تحديد الكل كمقروء",
+  "monthLabel": "شهر",
+  "mostPopularLabel": "الأكثر طلباً",
+  "nameLabel": "الاسم",
+  "nameShort": "الاسم قصير جدًا",
+  "name_label": "الاسم",
+  "navAccount": "حسابي",
+  "navHome": "الرئيسية",
+  "navOrders": "طلباتي",
+  "navStore": "المتجر",
+  "new_name_label": "الاسم الجديد",
+  "next": "التالي",
+  "noAccount": "ليس لديك حساب؟",
+  "no_notifications_yet": "لا توجد إشعارات حالياً",
+  "notAvailable": "غير متوفر",
+  "noteLabel": "ملاحظات إضافية",
+  "noteOrFileRequired": "يرجى كتابة ملاحظة أو اختيار ملف قبل الإرسال.",
+  "notes_hint": "اكتب أي ملاحظات إضافية للطلب...",
+  "notes_label": "الملاحظات",
+  "notif_chat_attachment_body": "📎 مرفق جديد",
+  "notif_chat_order_reply_prefix": "رد جديد على الطلب #",
+  "notif_chat_support_title": "رسالة جديدة من الدعم الفني 💬",
+  "notif_order_status_changed_body": "تغيرت حالة الطلب رقم {number} إلى: {status}",
+  "notif_order_update_title": "تحديث حالة الطلب ✅",
+  "notification_new_badge": "جديد",
+  "notification_time_now": "الآن",
+  "notifications_title": "الإشعارات",
+  "openDetailsArrow": "عرض التفاصيل ←",
+  "or": "أو",
+  "orderCancelSnack": "✅ تم إلغاء الطلب",
+  "orderChatButton": "💬 دردشة حول طلب #{orderNumber}",
+  "orderCustomerInfoTitleFancy": "👤 بيانات العميل",
+  "orderDetailsAppBarTitle": "🧾 تفاصيل الطلب",
+  "orderDetailsHeaderTitle": "📦 طلبك جاهز للمتابعة",
+  "orderDetailsTitle": "تفاصيل الطلب",
+  "orderItemsTitleFancy": "🧺 العناصر",
+  "orderLoadFailed": "تعذر تحميل الطلب",
+  "orderNotesTitleFancy": "📝 ملاحظات",
+  "orderNumberLabel": "رقم الطلب",
+  "orderNumberPrefix": "رقم الطلب: {number}",
+  "orderStatusCanceled": "ملغي",
+  "orderStatusDone": "مكتمل",
+  "orderStatusInProgress": "قيد التنفيذ",
+  "orderStatusLabel": "حالة الطلب",
+  "orderStatusNew": "جديد",
+  "orderStatusUnknown": "غير معروف",
+  "orderThanksFooterShort": "💎 شكراً لثقتك بمتجر دفــــا — نحن هنا لخدمتك.",
+  "orderTotalHiddenSpecial": "🔒 هذا الطلب بنظام خاص — لا يظهر الإجمالي هنا.",
+  "orderTotalLabelFancy": "💰 الإجمالي",
+  "orderTypeGeneric": "طلب عام",
+  "orderTypeLabelFancy": "🧩 نوع الطلب",
+  "orderTypeProduct": "منتج",
+  "orderTypeService": "خدمة",
+  "order_confirm_page_review_msg": "راجع بيانات طلبك قبل المتابعة للدفع",
+  "order_failed_msg": "حدث خطأ أثناء إنشاء الطلب",
+  "order_failed_title": "لم تكتمل العملية ⚠️",
+  "order_success_msg": "شكرًا لثقتك في دفــا",
+  "order_success_title": "تم إتمام الطلب بنجاح 🎉",
+  "order_summary": "ملخص الطلب",
+  "ordersDetailsLabel": "تفاصيل",
+  "ordersEmpty": "لا يوجد طلبات حالياً",
+  "ordersIndexFallback": "تم تفعيل الوضع الاحتياطي تلقائيًا — أعد فتح الصفحة.",
+  "ordersIndexRequired": "الطلبات غير ظاهرة لأن Firestore يتطلب إنشاء فهرس.",
+  "ordersLoadError": "حدث خطأ أثناء تحميل الطلبات",
+  "ordersLoginRequired": "يرجى تسجيل الدخول لعرض الطلبات",
+  "ordersTitle": "طلباتي",
+  "password": "كلمة المرور",
+  "passwordNotMatch": "كلمتا المرور غير متطابقتين",
+  "paymentSection": "الدفع والاشتراكات",
+  "payment_title": "الدفع",
+  "phoneLabel": "رقم الهاتف",
+  "phone_is_required_msg": "رقم الهاتف إلزامي",
+  "phone_number": "رقم الجوال",
+  "phone_required_label": "رقم الهاتف (إلزامي)",
+  "pick_file_tooltip": "إضافة ملف",
+  "please_login_first": "الرجاء تسجيل الدخول أولاً",
+  "proceed_to_payment": "متابعة إلى الدفع",
+  "productDescriptionLabel": "وصف المنتج",
+  "productKindLabel": "النوع",
+  "products_label": "المنتجات",
+  "profileSection": "الملف الشخصي",
+  "registerHint": "أنشئ حسابك لبدء التسوق في دفــا",
+  "registerNow": "سجل الآن",
+  "rename_action": "إعادة تسمية",
+  "rename_folder_title": "إعادة تسمية مجلد",
+  "reorderSameItemsButton": "🔁 إعادة طلب نفس العناصر",
+  "retry_button": "إعادة المحاولة",
+  "return_to_home": "العودة للرئيسية",
+  "root_folder_name": "الرئيسية",
+  "routeNotLinked": "هذه الصفحة غير مرتبطة بالتطبيق حاليًا.",
+  "saveChanges": "حفظ التغييرات",
+  "save_as_image": "حفظ كصورة (JPEG)",
+  "save_button": "حفظ",
+  "save_in_current_folder": "حفظ داخل المجلد الحالي",
+  "sendError": "حدث خطأ أثناء الإرسال",
+  "sendRequest": "إرسال الطلب",
+  "serviceTitleLabel": "عنوان الخدمة",
+  "serviceTitleRequired": "يرجى كتابة عنوان الخدمة المطلوبة",
+  "servicesTitle": "خدماتنا المتكاملة",
+  "settingsTitle": "الإعدادات",
+  "share_action": "مشاركة",
+  "shipping_address": "عنوان الشحن",
+  "shortPassword": "كلمة المرور قصيرة جدًا",
+  "skip": "تخطي",
+  "sliderBadgeImage": "🖼️ صورة",
+  "sliderBadgeLink": "🔗 رابط",
+  "sliderBadgeProduct": "🛒 منتج",
+  "specialTitle": "دفــا سبيشل",
+  "startNow": "ابدأ الآن",
+  "stepConfirmation": "التأكيد",
+  "stepPayment": "الدفع",
+  "stepProduct": "المنتج",
+  "storeContactUs": "تواصل معنا",
+  "storeEmpty": "لا توجد منتجات متاحة حاليًا",
+  "storeLoadError": "حدث خطأ أثناء تحميل المنتجات",
+  "storeOrderNow": "اطلب الآن",
+  "storeSubscribeNow": "اشترك الآن",
+  "storeTitle": "المتجر",
+  "success_badge": "تم بنجاح 🥳",
+  "tapToOpenLabel": "اضغط للفتح",
+  "total": "الإجمالي",
+  "totalAmount": "المبلغ الإجمالي",
+  "total_items_count": "الإجمالي ({count} عناصر)",
+  "upload_to_cloud": "رفع للسحابة",
+  "viewDetails": "عرض التفاصيل",
+  "view_order": "عرض الطلب",
+  "zip_code": "الرمز البريدي",
+  "onboardingWelcomeDesc": "متجر دفــا وجهتك المختارة للفخامة والجودة — منتجات منتقاة بعناية، تفاصيل راقية، وتجربة تسوق تليق بذوقك من أول خطوة.",
+  "onboardingFeaturesTitle": "لماذا متجر دفــا؟",
+  "onboardingFeature1Title": "منتجات فاخرة",
+  "onboardingFeature1Desc": "تشكيلة منتقاة بعناية تجمع بين الأناقة، الذوق الرفيع، والجودة العالية.",
+  "onboardingFeature2Title": "جودة موثوقة",
+  "onboardingFeature2Desc": "وصف دقيق، صور واضحة، ومعايير جودة نلتزم بها في كل منتج.",
+  "onboardingFeature3Title": "عروض حصرية",
+  "onboardingFeature3Desc": "عروض موسمية ومفاجآت مميزة مصممة لعملاء دفــا.",
+  "onboardingFeature4Title": "طلب سهل وسريع",
+  "onboardingFeature4Desc": "عملية شراء سلسة بخطوات بسيطة ومتابعة طلباتك بكل وضوح.",
+  "onboardingFeature5Title": "دعم متجاوب",
+  "onboardingFeature5Desc": "فريق دعم جاهز للتواصل معك وتقديم المساعدة في أي وقت.",
+  "editProfile": "تعديل الملف الشخصي",
+  "services": "الخدمات",
+  "profile": "الملف الشخصي",
+  "profileSubtitle": "إدارة معلومات حسابك",
+  "settings": "الإعدادات",
+  "settingsSubtitle": "اللغة والإشعارات والخصوصية",
+  "support": "الدعم",
+  "supportSubtitle": "تواصل معنا عبر الدردشة",
+  "accountNamePlaceholder": "عميل دفــا",
+  "accountEmailPlaceholder": "email@example.com",
+  "accountVipLabel": "عميل مميز",
+  "accountStandardLabel": "عميل",
+  "invalidPhoneError": "رقم الهاتف غير صحيح",
+  "onboardingSkip": "تخطي",
+  "onboardingNext": "التالي",
+  "onboardingStartShopping": "ابدأ التسوق",
+  "onboardingChooseLanguage": "اختر اللغة",
+  "onboardingChooseLanguageHint": "يمكنك تغيير اللغة لاحقًا من الإعدادات",
+  "onboardingArabic": "العربية",
+  "onboardingEnglish": "English",
+  "onboardingDefaTitle": "دِفــــا — حيث يبدأ الذوق الرفيع",
+  "onboardingDefaSubtitle": "قطع راقية بروح شرقية…\nتفاصيل ذهبية تُكمل حضورك وتُبهج من تحب",
+  "onboardingShowcaseTitle": "مختارات دِفــــا الراقية",
+  "onboardingShowcaseDesc": "هدايا تُدهش، إكسسوارات بلمسة فخامة، خواتم عقيق فاخر،\nومباخر ومنحوتات تروي حكاية ذوق",
+  "onboardingCatGifts": "هدايا تُدهش",
+  "onboardingCatAccessories": "إكسسوارات فاخرة",
+  "onboardingCatAgate": "خواتم العقيق",
+  "onboardingCatIncense": "مباخر وتحف",
+  "checkout_step_product": "المنتج",
+  "checkout_step_confirm": "التأكيد",
+  "checkout_step_payment": "الدفع",
+  "checkout_status_new": "طلب جديد",
+  "checkout_status_pending": "قيد المراجعة",
+  "checkout_status_canceled": "تم الإلغاء",
+  "checkout_process_title": "مراحل إتمام الطلب",
+  "checkout_secure_connection": "جاري تأمين اتصالك ببوابة الدفع الفاخرة...",
+  "checkout_review_basket": "جاري مراجعة سلة مشتريات دِفا الرسمية...",
+  "checkout_step_product": "المنتج",
+  "checkout_step_confirm": "التأكيد",
+  "checkout_step_payment": "الدفع"
+}

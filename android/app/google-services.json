@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172890376762",
+    "project_id": "defa-sa-official",
+    "storage_bucket": "defa-sa-official.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172890376762:android:bdf69900a518ff0e478303",
+        "android_client_info": {
+          "package_name": "com.defasa.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172890376762-mjdi10hmdqseqomu8en48v9ufj8sfa8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.defasa.client",
+            "certificate_hash": "9c465edef62599b9082b3458d9e74eace20a965a"
+          }
+        },
+        {
+          "client_id": "172890376762-o1ob5jno8n08gn9cqtumgm57u4q0qe1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_IHl7Wc6NQMJh6_5xg5CsK-dX-8SMHB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172890376762-9r602nus4d1h0bjs6c8nrdj4i4efjso7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
