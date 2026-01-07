@@ -9,24 +9,25 @@ import Flutter
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
 
-    // Flutter plugins
+    // تسجيل إضافات Flutter
     GeneratedPluginRegistrant.register(with: self)
-
-    // (اختياري) اجعل إشعارات iOS تمر عبر Flutter plugins
-    // لا تضف UNUserNotificationCenterDelegate هنا لتجنب التكرار
 
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 
-  // دعم إشعارات Push (iOS 10+) عبر Firebase Messaging / flutter_local_notifications
-  // وجود هذه الدوال يكفي بدون إعلان UNUserNotificationCenterDelegate في class signature
+  // دعم إشعارات Push (iOS 10+)
+  // لا نضيف UNUserNotificationCenterDelegate في تعريف الكلاس لتجنب التكرار
 
   override func userNotificationCenter(
     _ center: UNUserNotificationCenter,
     willPresent notification: UNNotification,
     withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void
   ) {
-    completionHandler([.banner, .sound, .badge])
+    if #available(iOS 14.0, *) {
+      completionHandler([.banner, .sound, .badge])
+    } else {
+      completionHandler([.alert, .sound, .badge])
+    }
   }
 
   override func userNotificationCenter(
